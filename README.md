@@ -1,5 +1,5 @@
 # PioT
-A central interface for Raspberry Pi management as it relates to IoT.
+A central interface for Raspberry Pi management as it relates to IoT. It's a Pi of Things!
 
 The software will allow you to connect multiple Pi's in a network together, to allow use from one interface, rather than many.
 
